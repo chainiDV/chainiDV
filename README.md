@@ -13,8 +13,8 @@ Science in Computer Engineering student. Currently developing FiveM scripts and 
 ### About me
 I started coding in 2016 and since then I've used several languages for my projects. In 2017 I gave FiveM a try by creating a server, which reached 100k registered users within a year, PoPLife.
 
-- 📲 Currently learning frontend frameworks VueJS and React Native.
-- 💻 I've used in my projects: JS, Java, C#, C, C++, Assembler, Lua, HTML, CSS, Python.
+- 📲 Currently looking forward to collaborating with open source projects and to developing private FiveM scripts.
+- 💻 I've used in my projects: JS, Java, C#, C, C++, Assembler, Lua, HTML, CSS, Python, VueJS and React.
 - 🌐 I love new technologies and learning them.
 - 📫 Let's chat chaini#1280 
 
