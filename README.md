@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm Chaini <img src="https://i.imgur.com/VJgNUJm.jpg"></img></h1>
 <h3 align="center"><img src="https://komarev.com/ghpvc/?username=chainidv"/>  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>  </h3>
 
-Science in Computer Engineering student. Currently developing FiveM scripts and backend software. Feel free to reach out!
+Computer Science Engineer. Currently developing FiveM scripts and backend software. Feel free to reach out!
 
 <p align="center">
 	<img src="https://github-readme-statss-two.vercel.app/api/top-langs/?username=chainidv&show_icons=true&theme=radical"/>	
